@@ -4,4 +4,4 @@ console.log(array.map((item) => item + 2));
 
 console.log("hola");
 
-console.log("logo");
+console.log("logo1");
